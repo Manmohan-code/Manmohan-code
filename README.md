@@ -42,8 +42,7 @@
 
 ## 🌐 Portfolio
 
-🔗 https://manmohan-ai.github.io/manmohan.github.io/
-
+🔗 https://manmohan-portfolio.netlify.app/
 ---
 
 ## 📫 Contact Me
